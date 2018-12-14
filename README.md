@@ -1,10 +1,8 @@
-Monitoring A Sunny Boy 4000tl Solar Inverter Via Its Bluetooth Interface.
+Utility To Control 1602 LCD On Raspberry Pi Via A PCF8574 I2C Backpack Module/
 =========================================================================
 
-A utility to monitor a Sunny Boy 4000tl solar inverter via its
-Bluetooth interface. Uses a cheap tl-wr702n wireless router, but
-should work with any Linux system and with other Sunny Boy inverters.
+A command line utilty that allows a Raspberry Pi to control a HD44780 based LCD via i2c.
 
 See
-[here](http://telecnatron.com/articles/Monitoring-A-Sunny-Boy-4000tl-Solar-Inverter-Via-Its-Bluetooth-Interface./index.html)
+[here](http://telecnatron.com/articles/Utility-To-Control-1602-LCD-On-Raspberry-Pi-Via-A-PCF8574-I2C-Backpack-Module/index.html)
 for full details.
